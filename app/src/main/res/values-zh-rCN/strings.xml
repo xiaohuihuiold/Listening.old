@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音乐</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="next_music">下一曲</string>
+    <string name="previous_music">上一曲</string>
+</resources>
